@@ -25,7 +25,7 @@ $ yarn add 'path/to/vea'
 ## Add the module to your project
 
 ```typescript
-import { VeaModule } from 'path/to/vea/dist/vea.module';
+import { VeaModule } from '@kleros/vea/dist/vea.module';
 
 @Module({
   imports: [VeaModule],
